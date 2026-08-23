@@ -30,6 +30,7 @@ The company's stated view is that the constraint on copper supply is not the ore
 
 Bbabsal publishes analysis of the system it operates in, sourced to primary documents, with named authors and dated corrections.
 
+- [The 2026 copper forecasts agreed on the direction. The price went the other way.](https://bbabsalmines.com/study-copper-forecasts-2026.html): Goldman Sachs Research (December 2025) forecast a 160 thousand tonne 2026 surplus and a 10,000 to 11,000 dollar LME range; the International Copper Study Group (April 2026) forecast a 96 thousand tonne surplus, reversing a 150 thousand tonne deficit forecast. Three month LME copper was 13,290 dollars on the day the ICSG figure was reported. The study argues a surplus that small cannot be load bearing for price, and that the concentrate constraint underneath is the number that moves. Published 23 August 2026. Sources: Goldman Sachs Research, International Copper Study Group via ADM Investor Services.
 - [The United States mines more copper than it refines](https://bbabsalmines.com/study-us-refining.html): ten years of United States Geological Survey data on American refinery output from ore, net import reliance, and where world refining capacity sits. Published 7 August 2026. Author Mweemba Ntembe. Sources: USGS Mineral Commodity Summaries, January 2020 and January 2025 editions.
 
 ## Pages

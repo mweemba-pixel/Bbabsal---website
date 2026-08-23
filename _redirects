@@ -1,0 +1,54 @@
+# 1. Serve the extensionless form directly, no redirect, so it matches the canonical.
+/accessibility    /accessibility.html    200
+/capabilities    /capabilities.html    200
+/careers    /careers.html    200
+/commodities    /commodities.html    200
+/company    /company.html    200
+/contact    /contact.html    200
+/governance    /governance.html    200
+/insights    /insights.html    200
+/investors    /investors.html    200
+/library    /library.html    200
+/media    /media.html    200
+/operations    /operations.html    200
+/privacy    /privacy.html    200
+/research    /research.html    200
+/responsibility    /responsibility.html    200
+/study-us-refining    /study-us-refining.html    200
+/terms    /terms.html    200
+
+# 2. Paths that existed on the previous Wix site, sent to the nearest equivalent.
+/about    /company.html    301
+/about-us    /company.html    301
+/blog    /insights.html    301
+/careers-1    /careers.html    301
+/cobalt    /commodities.html    301
+/community    /responsibility.html    301
+/contact-us    /contact.html    301
+/copper    /commodities.html    301
+/csr    /responsibility.html    301
+/environment    /responsibility.html    301
+/get-in-touch    /contact.html    301
+/home    /    301
+/index    /    301
+/investment    /investors.html    301
+/investor-relations    /investors.html    301
+/jobs    /careers.html    301
+/metals    /commodities.html    301
+/minerals    /commodities.html    301
+/mining    /operations.html    301
+/news    /media.html    301
+/our-projects    /operations.html    301
+/our-story    /company.html    301
+/our-team    /company.html    301
+/press    /media.html    301
+/products    /commodities.html    301
+/projects    /operations.html    301
+/services    /capabilities.html    301
+/sustainability    /responsibility.html    301
+/team    /company.html    301
+/what-we-do    /capabilities.html    301
+/who-we-are    /company.html    301
+
+# 3. Everything else.
+/*    /404.html    404

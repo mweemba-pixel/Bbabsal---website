@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Bbabsal Research</title>
+  <link>https://bbabsalmines.com/research.html</link>
+  <description>Independent, evidence led analysis of critical minerals, refining capacity, method, markets and policy.</description>
+  <language>en</language>
+  <atom:link href="https://bbabsalmines.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>The United States mines more copper than it refines</title>
+    <link>https://bbabsalmines.com/study-us-refining.html</link>
+    <guid isPermaLink="true">https://bbabsalmines.com/study-us-refining.html</guid>
+    <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
+    <description>Ten years of United States Geological Survey data on American copper refinery output, net import reliance, and where the world's refining capacity sits.</description>
+  </item>
+</channel>
+</rss>

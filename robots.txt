@@ -1,0 +1,20 @@
+# Bbabsal
+User-agent: *
+Allow: /
+
+# Research and analysis on this site may be read and cited by automated agents.
+# Please attribute to Bbabsal and link to the canonical URL.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://bbabsalmines.com/sitemap.xml
+
+# The 404 page is intentionally excluded from indexing.

@@ -1,0 +1,14 @@
+{
+  "name": "Bbabsal",
+  "short_name": "Bbabsal",
+  "description": "Critical minerals. Copper and cobalt exploration in Zambia, copper processing capacity in Michigan.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#14130F",
+  "theme_color": "#14130F",
+  "icons": [
+    { "src": "/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

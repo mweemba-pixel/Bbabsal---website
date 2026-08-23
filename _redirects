@@ -6,7 +6,8 @@
 /company    /company.html    200
 /contact    /contact.html    200
 /governance    /governance.html    200
-/insights    /insights.html    200
+/insights    /research.html    301
+/insights.html    /research.html    301
 /investors    /investors.html    200
 /library    /library.html    200
 /media    /media.html    200
@@ -15,12 +16,13 @@
 /research    /research.html    200
 /responsibility    /responsibility.html    200
 /study-us-refining    /study-us-refining.html    200
+/study-copper-forecasts-2026    /study-copper-forecasts-2026.html    200
 /terms    /terms.html    200
 
 # 2. Paths that existed on the previous Wix site, sent to the nearest equivalent.
 /about    /company.html    301
 /about-us    /company.html    301
-/blog    /insights.html    301
+/blog    /research.html    301
 /careers-1    /careers.html    301
 /cobalt    /commodities.html    301
 /community    /responsibility.html    301

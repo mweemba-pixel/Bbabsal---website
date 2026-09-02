@@ -1,0 +1,48 @@
+series,year,value_thousand_tonnes,basis,source_edition,page
+Mine production recoverable,2020,1200,copper content,USGS MCS January 2025,64
+Mine production recoverable,2021,1230,copper content,USGS MCS January 2025,64
+Mine production recoverable,2022,1230,copper content,USGS MCS January 2025,64
+Mine production recoverable,2023,1130,copper content,USGS MCS January 2025,64
+Mine production recoverable,2024,1100,copper content estimated,USGS MCS January 2025,64
+Refinery primary from ore,2020,872,copper content,USGS MCS January 2025,64
+Refinery primary from ore,2021,922,copper content,USGS MCS January 2025,64
+Refinery primary from ore,2022,930,copper content,USGS MCS January 2025,64
+Refinery primary from ore,2023,843,copper content,USGS MCS January 2025,64
+Refinery primary from ore,2024,850,copper content estimated,USGS MCS January 2025,64
+Refinery secondary from scrap,2024,40,copper content estimated,USGS MCS January 2025,64
+Copper recovered from old scrap,2024,150,copper content estimated,USGS MCS January 2025,64
+Imports refined,2020,676,copper content,USGS MCS January 2025,64
+Imports refined,2021,919,copper content,USGS MCS January 2025,64
+Imports refined,2022,732,copper content,USGS MCS January 2025,64
+Imports refined,2023,771,copper content,USGS MCS January 2025,64
+Imports refined,2024,810,copper content estimated,USGS MCS January 2025,64
+Imports ore and concentrates,2024,0,less than half a unit,USGS MCS January 2025,64
+Exports ore and concentrates,2020,383,copper content,USGS MCS January 2025,64
+Exports ore and concentrates,2021,344,copper content,USGS MCS January 2025,64
+Exports ore and concentrates,2022,351,copper content,USGS MCS January 2025,64
+Exports ore and concentrates,2023,339,copper content,USGS MCS January 2025,64
+Exports ore and concentrates,2024,320,copper content estimated,USGS MCS January 2025,64
+Exports refined,2024,60,copper content estimated,USGS MCS January 2025,64
+Consumption reported refined,2024,1600,copper content estimated,USGS MCS January 2025,64
+Consumption apparent,2024,1800,copper content estimated,USGS MCS January 2025,64
+Refined stocks yearend,2023,127,copper content,USGS MCS January 2025,64
+Refined stocks yearend,2024,70,copper content estimated,USGS MCS January 2025,64
+Net import reliance per cent,2020,38,per cent of apparent consumption,USGS MCS January 2025,64
+Net import reliance per cent,2021,44,per cent of apparent consumption,USGS MCS January 2025,64
+Net import reliance per cent,2022,41,per cent of apparent consumption,USGS MCS January 2025,64
+Net import reliance per cent,2023,41,per cent of apparent consumption,USGS MCS January 2025,64
+Net import reliance per cent,2024,45,per cent of apparent consumption estimated,USGS MCS January 2025,64
+World refinery production,2024,27000,rounded world total estimated,USGS MCS January 2025,65
+World refinery production China,2024,12000,estimated,USGS MCS January 2025,65
+World refinery production United States,2024,890,estimated,USGS MCS January 2025,65
+World refinery production Congo Kinshasa,2024,2500,estimated,USGS MCS January 2025,65
+World refinery production Chile,2024,1900,estimated,USGS MCS January 2025,65
+World refinery production Japan,2024,1600,estimated,USGS MCS January 2025,65
+World refinery production Russia,2024,960,estimated,USGS MCS January 2025,65
+World refinery production Germany,2024,630,estimated,USGS MCS January 2025,65
+World refinery production Korea Republic of,2024,620,estimated,USGS MCS January 2025,65
+World refinery production Poland,2024,590,estimated,USGS MCS January 2025,65
+World refinery production India,2024,510,estimated,USGS MCS January 2025,65
+World refinery production Kazakhstan,2024,470,estimated,USGS MCS January 2025,65
+World refinery production Australia,2024,460,estimated,USGS MCS January 2025,65
+World refinery production Zambia,2024,170,estimated,USGS MCS January 2025,65

@@ -45,6 +45,7 @@ Bbabsal publishes analysis of the system it operates in, sourced to primary docu
 - [Insights](https://bbabsalmines.com/insights.html): shorter notes on policy, capacity and corridor developments.
 - [Investors](https://bbabsalmines.com/investors.html): the position, the stage, and what a diligence process receives.
 - [Responsibility](https://bbabsalmines.com/responsibility.html): safety, environment, value retained in Africa, and reliability of supply.
+- [Bbabsal Foundation](https://bbabsalmines.com/foundation.html): Zambian registered nonprofit developing a skilled local workforce, from school through technical and junior college.
 - [Governance](https://bbabsalmines.com/governance.html): what the company will and will not claim, and who is accountable.
 - [Library](https://bbabsalmines.com/library.html): what is published and what does not yet exist.
 - [Media](https://bbabsalmines.com/media.html): enquiries and authorised spokespeople.
